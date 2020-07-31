@@ -1,0 +1,44 @@
+div.baslik
+{
+
+	font-family: Arial, sans-serif;
+	font-size: 40;
+	color: #c1272d;
+	text-align: left;
+	font-weight: bold;
+
+	
+}
+
+div.title
+
+{
+	font-family: Arial, sans-serif;
+	font-size: 40;
+	color: blue;
+	text-align: left;
+	font-style: italic;
+	font-weight: bold;		
+}
+
+div.metin
+{
+
+	font-family: Arial, sans-serif;
+	font-size: 30;
+	color: green;
+	text-align: left;
+	font-weight: bold;		
+	
+}
+
+div.text
+{
+
+	font-family: Arial, sans-serif;
+	font-size: 16;
+	color: blue;
+	text-align: left;
+	font-weight: bold;		
+
+}

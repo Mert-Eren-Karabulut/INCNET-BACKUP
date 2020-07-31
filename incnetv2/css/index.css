@@ -1,0 +1,164 @@
+body
+{
+	margin: 0;
+	font-family: "Helvetica";
+}
+
+#content
+{
+	display: none;
+	background: rgba(181, 158, 159, 0.5);
+	height: 100vh;
+	margin: 0 200px;
+	position: relative;
+	top: 0;
+	width: 966px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.form
+{
+	height: 300px;
+	width: 230px;
+	background-color: #c1272d;
+	border: 2px solid #565656;
+	border-radius: 7px;
+	box-shadow: 0px 0px 10px gray;
+	padding: 15px;
+	position: relative;
+	top: 110px;
+	left: 175px;
+}
+
+.fieldname
+{
+	width: 100px;
+	display: inline-block;
+}
+
+input[type='text'],
+input[type='password']
+{
+	width: 220px;
+	padding: 2px;
+	margin: 15px 0;
+}
+
+#welcome
+{
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+	margin-left: 39px;
+	height: 40px;
+}
+
+#remember
+{
+	position: absolute;
+	top: 200px;
+	color: white;
+	font-size: 1.25em;
+	/*font-weight: bold;*/
+}
+
+#error
+{
+	position: absolute;
+	bottom: 80px;
+	margin: 0 2px;
+	color: white;
+	font-size: 0.97em;
+	font-weight: bold;
+}
+
+#signin
+{
+	position: absolute;
+	bottom: 0px;
+	left: 45px;
+	margin: 35px 10px;
+}
+
+img#incnetLogo
+{
+	position: relative;
+	bottom: 180px;
+	left: 913px;
+	height: 250px;
+}
+
+.gradient
+{
+	width: 100%;
+	height: 20px;
+	position: fixed;
+	bottom: 50.5px;
+	background: linear-gradient(white, #c1272d);
+	background: -o-linear-gradient(white, #c1272d);
+	background: -moz-linear-gradient(white, #c1272d);
+	background: -webkit-linear-gradient(white, #c1272d);
+}
+
+.summaryLogo
+{
+	position: relative;
+	margin: 73.4px;
+	height: 60px;
+	top: 100px;
+	float: left
+}
+
+#checkinLogo
+{
+	margin-left: 100px;
+}
+
+#poolLogo
+{
+	margin-right: 100px;
+}
+
+.summaryDiv
+{
+	background: rgba(193,39,45,0.8);
+	border-radius: 5px;
+	color: white;
+	padding: 5px 15px;
+	width: 180px;
+	position: absolute;
+	top: 260px;
+	transform: translate(-50%, 0);
+}
+
+.summaryDiv:before
+{
+	border: solid;
+	border-color: rgba(193,39,45,0.8) transparent;
+	border-width: 0 6px 6px 6px;
+	position: absolute;
+	left: 99px;
+	top: -6px;
+	content: "";
+}
+
+#checkinDiv
+{
+	left: 135px;
+}
+
+#weekendDiv
+{
+	left: 371.3px;
+}
+
+#etutDiv
+{
+	left: 602.6px;
+}
+
+#poolDiv
+{
+	left: 822.4px;
+}

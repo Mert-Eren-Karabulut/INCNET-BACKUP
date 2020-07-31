@@ -1,0 +1,228 @@
+body
+{
+	margin: 0;
+	font-family: "Helvetica";
+}
+
+#content
+{
+	display: none;
+	background: rgba(181, 158, 159, 0.5);
+	height: 100vh;
+	margin: 0 200px;
+	position: relative;
+	top: 0;
+	width: 966px;
+	margin-left: auto;
+	margin-right: auto;
+}
+@media screen and (min-width:1801px) {
+	.form
+	{
+		height: 300px;
+		width: 230px;
+		background-color: #c1272d;
+		border: 2px solid #565656;
+		border-radius: 7px;
+		box-shadow: 0px 0px 10px gray;
+		padding: 15px;
+		position: relative;
+		top: 300px;
+		left: 400px;
+	}
+	img#incnetLogo
+	{
+		position: relative;
+		bottom: 180px;
+		left: 1200px;
+		height: 300px;
+		top:-20px;
+	}
+	#forgot
+	{
+		text-decoration: none;
+		color: white;
+		position: relative;
+		top:25px;
+	}
+}
+@media screen and (max-width:1800px) {
+	.form
+	{
+		height: 300px;
+		width: 230px;
+		background-color: #c1272d;
+		border: 2px solid #565656;
+		border-radius: 7px;
+		box-shadow: 0px 0px 10px gray;
+		padding: 15px;
+		position: relative;
+		top: 110px;
+		left: 175px;
+	}
+	img#incnetLogo
+	{
+		position: relative;
+		bottom: 180px;
+		left: 800px;
+		height: 250px;
+		-webkit-transform: scale(1.0); /* Saf3.1+, Chrome */
+     -moz-transform: scale(1.0); /* FF3.5+ */
+      -ms-transform: scale(1.0); /* IE9 */
+       -o-transform: scale(1.0); /* Opera 10.5+ */
+          transform: scale(1.0);
+             /* IE6–IE9 */
+             filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.9999619230641713, M12=-0.008726535498373935, M21=0.008726535498373935, M22=0.9999619230641713,SizingMethod='auto expand');
+	}
+	#forgot
+	{
+		text-decoration: none;
+		color: white;
+		position: relative;
+		top: 20px;
+	}
+}
+.fieldname
+{
+	width: 100px;
+	display: inline-block;
+}
+
+input[type='text'],
+input[type='password']
+{
+	width: 220px;
+	padding: 2px;
+	margin: 15px 0;
+}
+
+#welcome
+{
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+	margin-left: 39px;
+	height: 40px;
+}
+
+#remember
+{
+	position: absolute;
+	top: 200px;
+	color: white;
+	font-size: 1.25em;
+	/*font-weight: bold;*/
+}
+
+#error
+{
+	position: absolute;
+	bottom: 60px;
+	margin: 0 2px;
+	color: white;
+	font-size: 0.97em;
+	font-weight: bold;
+}
+
+#signin
+{
+	position: absolute;
+	bottom: 0px;
+	left: 45px;
+	margin: 20px 10px;
+}
+
+h2 {   
+   position: relative; 
+   top: -16px; 
+   left: 100; 
+   width: 100%; 
+}
+h2 span { 
+   color: white; 
+   font: 20px/40px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   padding: 10px; 
+}
+.gradient
+{
+	width: 100%;
+	height: 20px;
+	position: fixed;
+	bottom: 50.5px;
+	background: linear-gradient(white, #c1272d);
+	background: -o-linear-gradient(white, #c1272d);
+	background: -moz-linear-gradient(white, #c1272d);
+	background: -webkit-linear-gradient(white, #c1272d);
+}
+
+.summaryLogo
+{
+	position: relative;
+	margin: 73.4px;
+	height: 100px;
+	top: 100px;
+	float: left
+}
+
+#checkinLogo
+{
+	margin-left: 90px;
+}
+
+#poolLogo
+{
+	margin-right: 80px;
+  float:right;
+}
+
+#weekendLogo{
+	margin-left: 85px;
+}
+
+#etutLogo{
+	margin-left: 180px;
+}
+
+.summaryDiv
+{
+	background: rgba(193,39,45,0.8);
+	border-radius: 5px;
+	color: white;
+	padding: 5px 15px;
+	width: 220px;
+	position: absolute;
+	top: 295px;
+	transform: translate(-50%, 0);
+}
+
+.summaryDiv:before
+{
+	border: solid;
+	border-color: rgba(193,39,45,0.8) transparent;
+	border-width: 0 6px 6px 6px;
+	position: absolute;
+	left: 99px;
+	top: -6px;
+	content: "";
+}
+
+#checkinDiv
+{
+	left: 135px;
+}
+
+#weekendDiv
+{
+	left: 371.3px;
+}
+
+#etutDiv
+{
+	left: 480px;
+}
+
+#poolDiv
+{
+	left: 822.4px;
+}

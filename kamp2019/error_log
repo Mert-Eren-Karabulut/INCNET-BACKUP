@@ -1,0 +1,6 @@
+[22-May-2020 02:37:37 Europe/Istanbul] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'incnetRoot'@'94.73.150.111' (using password: YES) in /home/u5377186/incnet/kamp2019/kayit.php on line 30
+[22-May-2020 02:37:55 Europe/Istanbul] PHP Notice:  Undefined index: sort_by in /home/u5377186/incnet/kamp2019/takip.php on line 22
+[22-May-2020 02:37:55 Europe/Istanbul] PHP Notice:  Undefined index: sort_by in /home/u5377186/incnet/kamp2019/takip.php on line 23
+[22-May-2020 02:37:55 Europe/Istanbul] PHP Notice:  Undefined index: sort_by in /home/u5377186/incnet/kamp2019/takip.php on line 24
+[22-May-2020 02:37:55 Europe/Istanbul] PHP Notice:  Undefined index: sort_dir in /home/u5377186/incnet/kamp2019/takip.php on line 28
+[22-May-2020 02:37:55 Europe/Istanbul] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'incnetRoot'@'94.73.150.111' (using password: YES) in /home/u5377186/incnet/kamp2019/takip.php on line 53

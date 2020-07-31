@@ -1,0 +1,61 @@
+* {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	font-size: 10pt;
+}
+
+.titleDiv {
+	color: #c1272d;
+	font-size: 16pt;
+}
+
+.container {
+	position:absolute;
+	left:50%;
+	margin-left:-380px;
+	width:700px;
+	top:5%;
+}
+
+.header {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	z-index:1;
+	font-size: 10pt;
+	position: fixed;
+	width: 100%;
+	height: 18px;
+	color: white;
+	left: 0px;
+	background-color: #c1272d;
+	top: 0px;
+	text-align:right;
+	
+}
+
+.copyright {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	font-size: 12;
+	position: fixed;
+	width: 100%;
+	height: 18px;
+	color: white;
+	left: 0px;
+	background-color: #c1272d;
+	bottom: 0px;
+	
+}
+
+a:link {
+text-decoration: none;
+}
+
+a:visited {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a:active {
+text-decoration: none
+}

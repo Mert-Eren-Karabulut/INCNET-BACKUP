@@ -1,0 +1,160 @@
+* {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	font-size: 10pt;
+}
+
+.titleDiv {
+	color: #c1272d;
+	font-size: 16pt;
+}
+
+.container {
+	position:absolute;
+	left:50%;
+	margin-left:-380px;
+	width:700px;
+	top:5%;
+}
+
+.header {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	z-index:1;
+	font-size: 10pt;
+	position: fixed;
+	width: 100%;
+	height: 18px;
+	color: white;
+	left: 0px;
+	background-color: #c1272d;
+	top: 0px;
+	text-align:right;
+	
+}
+
+.copyright {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	font-size: 10pt;
+	position: fixed;
+	width: 100%;
+	height: 18px;
+	color: white;
+	left: 0px;
+	background-color: #c1272d;
+	bottom: 0px;
+	
+}
+
+a:link {
+text-decoration: none;
+}
+
+a:visited {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a:active {
+text-decoration: none
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+input.valid {
+    background: url("form-validator/icon-ok.png") no-repeat scroll right center #e3ffe5;
+    border-color: #96b796 !important;
+    color: #002f00;
+}
+
+input.error {
+    background: url("form-validator/icon-fail.png") no-repeat scroll right center #ffebef;
+    color: #480000;
+}
+
+.no-bgimg.valid {
+		background: #e3ffe5 !important;
+}
+
+.no-bgimg.error {
+	background: #ffebef !important;
+}
+
+.form-error {
+	color: #c1272d;
+	/*font-weight: bold;*/
+	padding-left: 10px;
+}
+
+.tip {
+	font-size: 9pt;
+}
+/*
+.info {
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+	min-width:200px;
+	margin:5px;
+}
+
+.title {
+	text-decoration: underline;
+	font-size: 12pt;
+	float: left;
+}
+
+.name {
+	float:left;
+	width:200px;
+}
+
+.value {
+	float: right;
+	text-align: right;
+}
+
+.section-title {
+	color: #c1272d;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.tip {
+font-size: 9pt;
+}
+
+.hidden {
+	display: none;
+}
+
+.edit {
+	float: right;
+	color: #c1272d;
+	text-decoration: underline;
+	font-size: 12pt;
+	max-width: 350px;
+}
+
+.edit:hover {
+	cursor: pointer;
+}
+
+.button {
+	float: right;
+	margin: 5px;
+}
+
+input, textarea, select {
+	width: 150px;
+}
+
+.multiple {
+	width: initial;
+}
+*/

@@ -1,0 +1,48 @@
+array(5) {
+  ["event"]=>
+  string(7) "message"
+  ["token"]=>
+  string(45) "76eed66ef0d6b040159dbc6efb2efe915c291737736f8"
+  ["uid"]=>
+  string(12) "905378504018"
+  ["contact"]=>
+  array(3) {
+    ["uid"]=>
+    string(12) "905467803338"
+    ["name"]=>
+    string(11) "Berke Filiz"
+    ["type"]=>
+    string(4) "user"
+  }
+  ["message"]=>
+  array(7) {
+    ["dtm"]=>
+    string(10) "1546200179"
+    ["uid"]=>
+    string(32) "45B7B0EBEBFD5176182ACCA4AA52AB87"
+    ["cuid"]=>
+    string(0) ""
+    ["dir"]=>
+    string(1) "i"
+    ["type"]=>
+    string(5) "image"
+    ["body"]=>
+    array(5) {
+      ["caption"]=>
+      string(19) "Postmodern Duolingo"
+      ["mimetype"]=>
+      string(10) "image/jpeg"
+      ["size"]=>
+      string(5) "28598"
+      ["thumb"]=>
+      string(1592) "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA+AGQDASIAAhEBAxEB/8QAHAABAAMBAQEBAQAAAAAAAAAAAAEDBQQGAgcI/8QAMxAAAQQBAgQDBgUFAQAAAAAAAQACAxEEEiEFMUFRYZGhBhMUInGBIzJCUtEHFRYkwfD/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAgEQEAAgIBBAMAAAAAAAAAAAAAAQIDESEEBRJREzFB/9oADAMBAAIRAxEAPwD+huO8SfwvEbkNgEzNYa8aqIHcbG1lP9ssKOWSKTDzhJG7TINLDo5c6d3cBt18N16HMyoMPHfPlStihYLc5x2CzOFe03CuKZHuMTJubo17S3V9L5qlcV7Vm9azMQlfPipeKWtETP1G+WZ/nGF7yNnwuSTJpNtLCGtcRRPzc978ehKsyPbGCPGxMiPAzJY8iN8oA0BwDHaSKLtz151S9Qimq8/D7VYcsM8nucgCGSON2zd9dURvdb73XWrXI323wnwsliws8sc1j7cxrQA5+j93PmfoO69WiDy8XtnhSxse3Dzgx5DWlzY2jUSNrL6Gxuzt43stjgnFoeMYZycaOZkYeWVK0AmuuxP8rQRAREQEREBERB5L+o0UjuHYk4gdkY0E4fPECRqb4108fFeOgnj4rxiBnBsV2O45DJGRt5RgBtnttR362v2BkZlsAAjraiHh0cBJhhhjJ5ljQL8lp9N3CMOLw8dzG9c8c+4Y3V9qnqc/yxfUTrca549T+MvPZxD3znYc7WtNAMcywBtZvuqdPFvxKnYLNtJZdbdq7i/ot847wOnmvlkLntsVSzGyzsr4p0+MYHBjGuuZpbeoVyB+65sgcSOW8wTNbA4ggOZZAoeHcHvzC23QPa0k1QRsD3NBFUUGHK3itx6J4gNLdX4ZNmhZ87UZX92Dovh3xFugarbuT16LcbE5znAVY5r6+Hf4eaDH4eOI/E6suSN0Og/K1tEH5a3rf9XbmtJWMic8EittkfC5rSTVBBWiIgIiIOjE/M76Ljh4ZkxRMY3iEh0Na0Et7VvQPWj5rpgjEhOq9lUcrh4v/aZtz+bl/wCooLMHElxRKZsuTI1AVr/TV/z6KXQuycExxzPhJunsO4UOEToGywvD2O5EGwVWgtgx340EwkyJJg4kjWfyjsrWM1sgcHkBh1UP1bEV639lyog6Y/mfO1rqPK+yqwcKXGcHS5c050aTrOxO29fY+arRBcIzPizRxyGNzttbeYURwvx8R7ZZ3zEm9T+Y5f8AbP3VSII1t/cPNNTf3DzUogIiILYXtbq1iwRS524PDW8sVtb7VtuvtEFsjmCFscTaa3kOwVNnt6qUQRZ7eqWe3qpRBFnt6pZ7eqlEEWe3qlnt6qUQRZ7eqWe3qpRAREQf/9k="
+      ["url"]=>
+      string(118) "https://4e218f8454de8f4e529e-cce9b8c24b594191704a7e4b4a4e29d6.ssl.cf3.rackcdn.com/LyrPuZDDAzgrugFfKgyOAvqp2yB8N2EY.jpg"
+    }
+    ["ack"]=>
+    string(1) "3"
+  }
+}
+
+array(0) {
+}

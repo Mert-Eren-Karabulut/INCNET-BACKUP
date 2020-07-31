@@ -1,0 +1,157 @@
+input[type="text"]
+{
+	height: 30px;
+	border: 2px solid #565656;
+	border-radius: 3px;
+	font-size: 1em;
+	color: #7e7e7e;
+	/*text-shadow: -1px 0px 1px gray;
+	box-shadow: -2px 2px 5px #c1272d;*/
+}
+
+input[type*="number"]
+{
+	height: 30px;
+	border: 2px solid #565656;
+	border-radius: 3px;
+	font-size: 1em;
+	color: #7e7e7e;
+	/*text-shadow: -1px 0px 1px gray;
+	box-shadow: -2px 2px 5px #c1272d;*/
+}
+
+input[type*="date"]
+{
+	height: 30px;
+	border: 2px solid #565656;
+	border-radius: 3px;
+	font-size: 1em;
+	color: #7e7e7e;
+	/*text-shadow: -1px 0px 1px gray;
+	box-shadow: -2px 2px 5px #c1272d;*/
+}
+
+input[type*="email"]
+{
+	height: 30px;
+	border: 2px solid #565656;
+	border-radius: 3px;
+	font-size: 1em;
+	color: #7e7e7e;
+	/*text-shadow: -1px 0px 1px gray;
+	box-shadow: -2px 2px 5px #c1272d;*/
+}
+
+
+input[type="password"]
+{
+	height: 30px;
+	border: 2px solid #565656;
+	border-radius: 3px;
+	font-size: 1em;
+	color: #7e7e7e;
+	/*text-shadow: -1px 0px 1px gray;
+	box-shadow: -2px 2px 5px #c1272d;*/
+}
+
+textarea
+{
+	height: 30px;
+	border: 2px solid #565656;
+	border-radius: 3px;
+	font-size: 1em;
+	color: #7e7e7e;
+}
+
+input[type="range"]
+{
+	box-sizing: border-box;
+	-webkit-appearance: none;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  height: 20px;
+  margin: 0;
+  border: none;
+  padding: 1px 2px;
+  border-radius: 14px;
+  background: #c9c9c9;
+  box-shadow: inset 0 1px 0 0 #0d0e0f, inset 0 -1px 0 0 #3a3d42;
+  -webkit-box-shadow: inset 0 1px 0 0 #0d0e0f, inset 0 -1px 0 0 #3a3d42;
+  outline: none;
+}
+
+input[type="range"]::-moz-range-track {
+  border: inherit;
+  background: transparent;
+}
+
+input[type="range"]::-ms-track {
+  border: inherit;
+  color: transparent;
+  background: transparent;
+}
+
+input[type="range"]::-ms-fill-lower,
+input[type="range"]::-ms-fill-upper {
+  background: transparent;
+}
+
+input[type="range"]::-ms-tooltip {
+  display: none;
+}
+
+input[type="range"]::-moz-range-thumb
+{
+	width: 40px;
+  height: 18px;
+  border: none;
+  border-radius: 120px;
+  background-image: linear-gradient(to bottom, #c1272d 0, #c1272d 100%);
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 40px;
+  height: 18px;
+  border: none;
+  border-radius: 120px;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #529de1), color-stop(100%, #245e8f)); /* android <= 2.2 */
+  background-image: -webkit-linear-gradient(top , #529de1 0, #245e8f 100%);
+  background-image: linear-gradient(to bottom, #529de1 0, #245e8f 100%);
+}
+
+input[type="range"]::-ms-thumb {
+  width: 40px;
+  height: 18px;
+  border-radius: 120px;
+  border: 0;
+  background-image: linear-gradient(to bottom, #529de1 0, #245e8f 100%);
+}
+
+input.file-text
+{
+	border-radius: 7px 0px 0px 7px;
+}
+
+button.file-button
+{
+	height: 38px;
+	border: 2px solid #565656;
+	border-left: 0px;
+	border-radius: 0px 7px 7px 0px;
+	font-size: 1em;
+	color: #7e7e7e;
+	background: none;
+}
+
+button,
+input[type='submit'],
+input[type='button']
+{
+	background: white;
+	border: 2px solid #565656;
+	border-radius: 3px;
+	height: 38px;
+	width: 150px;
+	color: #7e7e7e;
+	font-size: 1em;
+}

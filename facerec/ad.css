@@ -1,0 +1,54 @@
+body {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	font-size: 14px;
+}
+
+.header {
+	height: 10%;
+	width: 100%;
+	background-color: #c1272d;
+	position:fixed;
+	top:0px;
+	left:0px;
+	border:0px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+	z-index:1;
+}
+
+.topa {
+	color:white;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:20px;
+	position:fixed;
+	margin-top:1.5%;
+}
+
+.home {
+	background-color:black;
+	height:100%;
+	width:100%;
+	position:absolute;
+	top:0px;
+	left:0px;
+	border:0px;
+	z-index:0;
+}
+
+.about {
+	height:100%;
+	width:100%;
+	left:0px;
+	position:absolute;
+	top:100%;
+}
+
+.login {
+	height:100%;
+	width:100%;
+	position:absolute;
+	top:200%;
+	left:0px;
+	background-color:#c1272d;
+}

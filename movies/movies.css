@@ -1,0 +1,31 @@
+#moviesmenu {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	font-size: 14;
+	position: absolute;
+	width: 200px;
+//	height: 162px;
+	top: 35px;
+	left: 140px;
+	background-color: c1272d;
+	color: white;
+	padding: 6px;
+	z-index: 1;
+	}
+	
+#editmenu {
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	font-size: 14;
+	position: absolute;
+	width: 160px;
+//	height: 162px;
+	top: 35px;
+	left: 330px;
+	background-color: c1272d;
+	color: white;
+	padding: 6px;
+	z-index: 1;
+	}	
+	
+*{
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+}

@@ -1,0 +1,6 @@
+[15-Jul-2020 14:42:36 Europe/Istanbul] PHP Notice:  Undefined index: user_id in /home/u5377186/incnet/termproject/index.php on line 15
+[15-Jul-2020 14:42:36 Europe/Istanbul] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'incnetRoot'@'94.73.150.111' (using password: YES)' in /home/u5377186/incnet/termproject/index.php:20
+Stack trace:
+#0 /home/u5377186/incnet/termproject/index.php(20): PDO->__construct('mysql:host=94.7...', 'incnetRoot', '6eI40i59n22M7f9...')
+#1 {main}
+  thrown in /home/u5377186/incnet/termproject/index.php on line 20
